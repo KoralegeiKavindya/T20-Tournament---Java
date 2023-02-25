@@ -1,0 +1,15 @@
+
+First Batting Team: Sri Lanka
+Runs/Score of the Team: 147
+Second Batting Team: Pakistan
+Runs/Score of the Team: 79
+ 
+Winning Team of the Match: Sri Lanka
+ 
+First Batting Team: Bangladesh
+Runs/Score of the Team: 251
+Second Batting Team: India
+Runs/Score of the Team: 238
+ 
+Winning Team of the Match: Bangladesh
+ 
